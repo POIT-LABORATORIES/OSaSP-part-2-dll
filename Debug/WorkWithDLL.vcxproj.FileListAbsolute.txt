@@ -1,0 +1,4 @@
+C:\Users\OLGA\Desktop\POIT\5 sem\ОСиСП\Labs\WorkWithDLL\Debug\WorkWithDLL.exe
+C:\Users\OLGA\Desktop\POIT\5 sem\ОСиСП\Labs\WorkWithDLL\Debug\WorkWithDLL.pdb
+E:\POIT\5 семестр\ОСИСП\Labs\WorkWithDLL\Debug\WorkWithDLL.exe
+E:\POIT\5 семестр\ОСИСП\Labs\WorkWithDLL\Debug\WorkWithDLL.pdb

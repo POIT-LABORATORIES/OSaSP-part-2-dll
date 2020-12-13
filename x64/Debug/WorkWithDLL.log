@@ -1,0 +1,3 @@
+﻿  WorkWithDLL.cpp
+E:\POIT\5 семестр\ОСИСП\Labs\WorkWithDLL\WorkWithDLL.cpp(239,13): warning C4101: 'buf': unreferenced local variable
+  WorkWithDLL.vcxproj -> E:\POIT\5 семестр\ОСИСП\Labs\WorkWithDLL\x64\Debug\WorkWithDLL.exe

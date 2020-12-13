@@ -1,0 +1,2 @@
+E:\POIT\5 семестр\ОСИСП\Labs\WorkWithDLL\x64\Debug\WorkWithDLL.exe
+E:\POIT\5 семестр\ОСИСП\Labs\WorkWithDLL\x64\Debug\WorkWithDLL.pdb
